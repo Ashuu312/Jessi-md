@@ -40,20 +40,20 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoTyping = true;                //auto tying by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["94779529221","94757534153"];         //If you want singal number so global.Owner = ['94779529221'] Change into your number.
-global.OwnerNumber = ["94757534153","94779529221"];   //If you want singal number so global.Owner = ['94779529221'] Change into your number.
-global.ownertag = ["94779529221"];
-global.OwnerName = "Mr.White Shadow";
-global.BotName = "Jessi-Md";
-global.packname = "Jessi-md bot";                             //Do not change.
-global.author = "By: Mr.White Shadow";                               //Do not change.
+global.Owner = ["+994407021704","+923014523312"];         //If you want singal number so global.Owner = ['94779529221'] Change into your number.
+global.OwnerNumber = ["+994407021704","+923014523312"];   //If you want singal number so global.Owner = ['94779529221'] Change into your number.
+global.ownertag = ["+923014523312"];
+global.OwnerName = "MrAsad";
+global.BotName = "AshuuBot";
+global.packname = "Ashuu bot";                             //Do not change.
+global.author = "By: MrAsad";                               //Do not change.
 global.BotSourceCode = "https://github.com/whiteshadowofficial/Jessi-md"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc"; 
 
